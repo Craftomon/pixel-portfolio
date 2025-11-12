@@ -1,1 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
 
+header, footer {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 1rem;
+}
